@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sebenaler
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning Software Engineering.
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning about Algo Trading.
 - 💞️ I’m looking to collaborate on things.
-- 📫 How to reach me jsebenale001@csbsju.edu
+- 📫 How to reach me joe.sebenaler@gmail.com
 
 <!---
 Sebenaler/Sebenaler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
