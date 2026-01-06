@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sebenaler
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning about Algo Trading.
 - 💞️ I’m looking to collaborate on things.
 - 📫 How to reach me joe.sebenaler@gmail.com
 
